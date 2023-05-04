@@ -1,0 +1,1 @@
+MONGODB_URL=mongodb+srv://<>:<>@val0.gomoowl.mongodb.net/Valorant?retryWrites=true&w=majority
